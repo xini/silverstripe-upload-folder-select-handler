@@ -1,0 +1,6 @@
+---
+Name: uploadfolderselecthandler
+---
+Injector:
+  UploadField_SelectHandler:
+    class: UploadFieldUploadFolderSelectHandler

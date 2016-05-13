@@ -1,0 +1,19 @@
+{
+	"name": "innoweb/silverstripe-upload-folder-select-handler",
+	"description": "Changes the default folder for choosing existing files through UploadField to the folder set with setFolder()(if set).",
+	"type": "silverstripe-module",
+	"license": "BSD-3-Clause",
+	"keywords": ["silverstripe", "upload", "select", "default", "folder"],
+	"homepage": "http://github.com/xini/silverstripe-upload-folder-select-handler",
+	"authors": [{
+		"name": "Florian Thoma",
+		"homepage": "http://www.innoweb.com.au"
+	}],
+	"require":
+	{
+		"silverstripe/framework": "~3.2"
+	},
+	"extra": {
+		"installer-name": "upload-folder-select-handler"
+	}
+}
