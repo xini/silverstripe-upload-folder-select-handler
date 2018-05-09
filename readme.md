@@ -17,6 +17,10 @@ UploadField::create('MyField')->setFolder('MyUploads')->setDisplayFolderName('My
 
 This module removes this extra step by automatically setting the display folder to the upload folder if that is defined for an `UploadField`.
 
+### SilverStripe 4 compatibility
+
+This module will be obsolete by the changes introduced in [this pull request] (https://github.com/silverstripe/silverstripe-asset-admin/pull/763) (probably SS 4.2). There won't be a SS4 compatible version of this module.
+
 ## Requirements
 
 * SilverStripe Framework ~3.2
