@@ -1,5 +1,7 @@
 # SilverStripe default file select folder
 
+**This is an archived project and is no longer maintained. Please do not file issues or pull-requests against this repo. If you wish to continue to develop this code yourself, we recommend you fork it or contact us.**
+
 [![Version](http://img.shields.io/packagist/v/innoweb/silverstripe-upload-folder-select-handler.svg?style=flat-square)](https://packagist.org/packages/innoweb/silverstripe-upload-folder-select-handler)
 [![License](http://img.shields.io/packagist/l/innoweb/silverstripe-upload-folder-select-handler.svg?style=flat-square)](license.md)
 
